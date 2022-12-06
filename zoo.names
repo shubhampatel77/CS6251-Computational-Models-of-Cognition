@@ -1,0 +1,18 @@
+animal name:id
+hair:bool
+feathers:bool
+eggs:bool
+milk:bool
+airborne:bool
+aquatic:bool
+predator:bool
+toothed:bool
+backbone:bool
+breathes:bool
+venomous:bool
+fins:bool
+legs:symbol:0,2,4,5,6,8
+tail:bool
+domestic:bool
+catsize:bool
+type:int:1:7
